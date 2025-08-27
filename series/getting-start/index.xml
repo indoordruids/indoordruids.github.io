@@ -1,7 +1,1 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Getting start with DoIt -  - Indoor Druids</title>
-        <link>http://localhost:1313/series/getting-start/</link>
-        <description>Getting start with DoIt -  - Indoor Druids</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Indoor Druids, All Rights Reserved.</copyright><atom:link href="http://localhost:1313/series/getting-start/" rel="self" type="application/rss+xml" /></channel>
-</rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Getting start with DoIt - - Indoor Druids</title><link>https://indoordruids.com/series/getting-start/</link><description>Getting start with DoIt - - Indoor Druids</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Indoor Druids, All Rights Reserved.</copyright><atom:link href="https://indoordruids.com/series/getting-start/" rel="self" type="application/rss+xml"/></channel></rss>

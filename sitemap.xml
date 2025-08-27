@@ -1,18 +1,1 @@
-<urlset
-    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-    xmlns:xhtml="http://www.w3.org/1999/xhtml"
-    ><url>
-            <loc>http://localhost:1313/</loc><lastmod>2025-03-13T01:57:14&#43;08:00</lastmod></url><url>
-            <loc>http://localhost:1313/posts/</loc><lastmod>2025-03-13T01:57:14&#43;08:00</lastmod></url><url>
-            <loc>http://localhost:1313/authors/</loc></url><url>
-            <loc>http://localhost:1313/categories/</loc></url><url>
-            <loc>http://localhost:1313/tags/configuration/</loc></url><url>
-            <loc>http://localhost:1313/tags/content/</loc></url><url>
-            <loc>http://localhost:1313/categories/documentation/</loc></url><url>
-            <loc>http://localhost:1313/series/getting-start/</loc></url><url>
-            <loc>http://localhost:1313/series/how-to-doit/</loc></url><url>
-            <loc>http://localhost:1313/tags/installation/</loc></url><url>
-            <loc>http://localhost:1313/offline/</loc></url><url>
-            <loc>http://localhost:1313/series/</loc></url><url>
-            <loc>http://localhost:1313/tags/</loc></url><url>
-            <loc>http://localhost:1313/series/test-series/</loc></url></urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://indoordruids.com/posts/hello-world/</loc><lastmod>2025-08-27T18:07:29-03:00</lastmod></url><url><loc>https://indoordruids.com/</loc><lastmod>2025-08-27T18:07:29-03:00</lastmod></url><url><loc>https://indoordruids.com/posts/</loc><lastmod>2025-08-27T18:07:29-03:00</lastmod></url><url><loc>https://indoordruids.com/tags/presentation/</loc><lastmod>2025-08-27T18:07:29-03:00</lastmod></url><url><loc>https://indoordruids.com/tags/</loc><lastmod>2025-08-27T18:07:29-03:00</lastmod></url><url><loc>https://indoordruids.com/categories/</loc><lastmod>2025-08-27T15:44:56-03:00</lastmod></url><url><loc>https://indoordruids.com/tags/configuration/</loc><lastmod>2025-08-27T15:44:56-03:00</lastmod></url><url><loc>https://indoordruids.com/tags/content/</loc><lastmod>2025-08-27T15:44:56-03:00</lastmod></url><url><loc>https://indoordruids.com/categories/documentation/</loc><lastmod>2025-08-27T15:44:56-03:00</lastmod></url><url><loc>https://indoordruids.com/series/getting-start/</loc><lastmod>2025-08-27T15:44:56-03:00</lastmod></url><url><loc>https://indoordruids.com/series/how-to-doit/</loc><lastmod>2025-08-27T15:44:56-03:00</lastmod></url><url><loc>https://indoordruids.com/tags/installation/</loc><lastmod>2025-08-27T15:44:56-03:00</lastmod></url><url><loc>https://indoordruids.com/offline/</loc><lastmod>2025-08-27T15:44:56-03:00</lastmod></url><url><loc>https://indoordruids.com/series/</loc><lastmod>2025-08-27T15:44:56-03:00</lastmod></url><url><loc>https://indoordruids.com/series/test-series/</loc><lastmod>2025-08-27T15:44:56-03:00</lastmod></url></urlset>

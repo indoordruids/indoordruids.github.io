@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "/home/brunosxs/git/indoor_druids/site",
+	"sourceRoot": "/home/runner/work/indoordruids-website-source/indoordruids-website-source",
 	"sources": [
 		"themes/DoIt/assets/css/style.scss",
 		"themes/DoIt/assets/css/_variables.scss",
