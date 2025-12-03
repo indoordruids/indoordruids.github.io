@@ -1,0 +1,57 @@
+---
+weight: 4
+title: "Asset Creation: Graphics"
+date: 2025-08-27T17:29:41+03:00
+lastmod: 2025-08-27T17:29:41+03:00
+draft: false
+authors: [Indoor Druids]
+description: "We have arrived..."
+resources:
+featuredImage: "featured-image.webp"
+featuredImagePreview: "featured-image-preview.webp"
+showthedate: false
+# tags: [presentation]
+categories: []
+#series: ["getting-started"]
+series_weight: 4
+lightgallery: true
+math:
+  enable: true
+_build:
+  publishResources: true
+---
+
+So, we decided to make our first game for the playdate, as a kind of test to our processes. We just wanted to remove all of the things that blocked us in the past (mainly art).
+
+But not necessarily less colors equals easier time... games are such a hard medium to create things on, it involves many competences. Drawings and rendering is just one.
+
+Also, less colors should be great for a good artist, but we here are not that, we are indoor druids goddamit, we can barely draw stick figures!
+So in our case (and many beginners cases), this actually makes stuff harder.
+
+As we, or more specifically, Druid B, were drawing some concepts by hand, we realized we needed to be really careful with the shapes because we only have two colors. It is incredibly hard... You need to render your thoughts on the paper/computer in a way that a house looks like a house, a wall needs to be different from wood or the electric pole right beside it... Otherwise things will not render well...
+
+The ideas we considered were: modeling basic shapes and then using it as a basis for the pixel art.
+Still, soon we realized that you know... drawing is hard... really hard... and we are not equipped to make our assets consistently. In one image we would have the light hit here or there in a way that felt unnatural and we got disheartened.
+But we are indoor druids goddamit! We trive in the wilderness of code!
+That was when we decided to write a shader and let blender take care of the lighting while we took care of shapes and composition. We quickly ended with this scene:
+![Beach scene](beach_scene_1.webp "Beach Scene")
+
+![Beach scene with texture](beach_scene_shader.webp "Beach Scene")
+Things are starting to take shape, and we were starting to get happy with the results. With that we could remove complexity that we don’t really know how to deal with and try to focus on what mattered.
+
+At such resolution and color it is much more about what to remove than what to add.
+it is very interesting especially for an insane person like me who likes to learn...
+
+but at such resolution and color it is much more about what to remove than what to add
+
+the very first piece I did was a gravel wall, and I carved it, all thanks to that course we did a bit on sculpting
+
+very messy, or as people say in the area, "does not read well"
+
+so I went the texturing route... again... better but still not reading well
+
+then I decided to do that, which is, basically blocks that I add just the biggest areas and put the right light...
+
+which actually is great...
+
+makes for very low-poly models that are easy to make and easier to change... look
