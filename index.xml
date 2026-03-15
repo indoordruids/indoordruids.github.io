@@ -8,4 +8,6 @@ So in our case (and many beginners cases), this actually makes stuff harder.</p>
             </div><p>Hello World!</p>
 <p>We&rsquo;re indoor druids, as the name says, we are druids but we don&rsquo;t touch grass that much&hellip;</p>
 <p>This is the website for a duo of friends that have been making systems, <em>but not games</em> 😔, for years, and we want to change that.</p>
-<p>So welcome aboard! Soon we will start to share news with everyone.</p>]]></description></item></channel></rss>
+<p>So welcome aboard! Soon we will start to share news with everyone.</p>]]></description></item><item><title>Basic Markdown Syntax</title><link>https://indoordruids.com/posts/base-and-documentation/basic-markdown-syntax/</link><pubDate>Sun, 01 Dec 2019 21:57:40 +0800</pubDate><author><name>Dillon</name></author><guid>https://indoordruids.com/posts/base-and-documentation/basic-markdown-syntax/</guid><description><![CDATA[<div class="featured-image">
+                <img src="/posts/base-and-documentation/basic-markdown-syntax/featured-image.webp" referrerpolicy="no-referrer">
+            </div><p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description></item></channel></rss>
